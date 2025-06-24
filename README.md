@@ -1,4 +1,14 @@
 ## Hi there 👋
+My name is Zin Min.
+
+
+## 💡 Open Source Contributions
+  -  [dose-android](https://github.com/waseefakhtar/dose-android):  
+  Fixed issue where today's medications were not shown on the Home Screen unless the user tapped the date chip.  
+  🛠️ [PR #147 – Show today's medications by default](https://github.com/waseefakhtar/dose-android/pull/147)  
+
+## 🛠️ Skills
+- Kotlin | Jetpack Compose
 
 <!--
 **zfml/zfml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
