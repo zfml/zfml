@@ -1,11 +1,18 @@
-## Hi there 👋
-My name is Zin Min.
+## 👋 Hi there, I'm Zin Min
 
+I'm a passionate Android developer with a focus on clean UI, intuitive UX, and robust architecture using Kotlin and Jetpack Compose.
+
+---
 
 ## 💡 Open Source Contributions
-  -  [dose-android](https://github.com/waseefakhtar/dose-android):  
-  Fixed issue where today's medications were not shown on the Home Screen unless the user tapped the date chip.  
+
+- ✅ [dose-android](https://github.com/waseefakhtar/dose-android)  
+  Fixed an issue where today's medications were not shown on the Home Screen unless the user tapped the date chip.  
   🛠️ [PR #147 – Show today's medications by default](https://github.com/waseefakhtar/dose-android/pull/147)  
+  ![PR Merged](https://img.shields.io/badge/PR-merged-brightgreen)
+
+---
+
 
 ## 🛠️ Skills
 - Kotlin | Jetpack Compose
