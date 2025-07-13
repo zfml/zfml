@@ -11,11 +11,15 @@ I'm a passionate Android developer with a focus on clean UI, intuitive UX, and r
   🛠️ [PR #147 – Show today's medications by default](https://github.com/waseefakhtar/dose-android/pull/147)  
   ![PR Merged](https://img.shields.io/badge/PR-merged-brightgreen)
 
+- ✅ [VibeStore](https://github.com/dwiaziprasetya/VibeStore)  
+  Resolved a UI logic bug in the Product Detail screen, improving the user experience.  
+  🛠️ [PR #6 – Fix Product Detail Screen logic bug](https://github.com/dwiaziprasetya/VibeStore/pull/6)  
+  ![PR Merged](https://img.shields.io/badge/PR-merged-brightgreen)
+
 ---
 
-
 ## 🛠️ Skills
-- Kotlin | Jetpack Compose| Git
+- Kotlin | Jetpack Compose | Git
 
 <!--
 **zfml/zfml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
