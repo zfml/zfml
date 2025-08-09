@@ -17,8 +17,8 @@ I'm a passionate Android developer with a focus on clean UI, intuitive UX, and r
   ![PR Merged](https://img.shields.io/badge/PR-merged-brightgreen)
   
 - ✅ [Date-Picker-KMP](https://github.com/waqas028/Date-Picker-KMP)  
-   
-  🛠️ [PR #1 – Improved code maintainability by adding CompositionLocalProvider(LocalPlatformContext provides context) to avoid passing context to other composables manually.](https://github.com/waqas028/Date-Picker-KMP/pull/1)  
+  Improved code maintainability by adding CompositionLocalProvider(LocalPlatformContext provides context) to avoid passing context to other composables manually.
+  🛠️ [PR #1 – Avoid passing context through composables manually ](https://github.com/waqas028/Date-Picker-KMP/pull/1)  
   ![PR Merged](https://img.shields.io/badge/PR-merged-brightgreen)
 
 ---
